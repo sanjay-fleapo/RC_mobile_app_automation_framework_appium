@@ -1,0 +1,5 @@
+Before using this framework make sure you installed
+1. android studio and created an emulator
+2. have appium
+3. have allure CLI
+4. configured your local device and app in baseTest.java

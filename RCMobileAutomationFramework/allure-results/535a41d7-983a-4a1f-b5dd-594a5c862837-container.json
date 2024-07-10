@@ -1,0 +1,1 @@
+{"uuid":"535a41d7-983a-4a1f-b5dd-594a5c862837","name":"com.fleapo.base.BaseTest.setup","children":["48e68205-fb6b-47e6-ab13-3a7a8d0814b4"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1720618086176,"stop":1720618096726}],"afters":[],"start":1720618086174,"stop":1720618096728}
